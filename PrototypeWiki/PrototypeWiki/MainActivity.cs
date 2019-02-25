@@ -17,10 +17,11 @@ namespace PrototypeWiki
             SetContentView(Resource.Layout.activity_main);
 
             //Plan:
+            //https://harvestcraftmod.fandom.com/wiki/HarvestCraft_Wiki
             //Peakategooriaid on 9: Garden, Crops, Dairy, Ingredients, Meat, Food, Drinks, Coocking Utensils, Machines
             //Olenevalt kategooriast on alamkategooriaid ka päris palju
             //Kus võimalik, võiks igale asjale pildi juurde lisada
-            //Nuppudeks kindlasti pildiga nupud, koos tekstiga. Kasvõi panna paint'is teks juurde
+            //Nuppudeks kindlasti pildiga nupud, koos tekstiga. Kasvõi panna paint'is tekst juurde
             //Peakategooria ja nende alamate font võiks olla sama, kuid peakategooriad võivad
             //üksteisest erineda.
             //Kuna tuleb väga palju vaateid ja classe ning see läheb väga kiirest
