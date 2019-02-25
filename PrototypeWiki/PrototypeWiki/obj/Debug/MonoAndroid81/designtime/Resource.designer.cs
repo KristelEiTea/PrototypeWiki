@@ -2225,16 +2225,22 @@ namespace PrototypeWiki
 			public const int abc_vector_test = 2131296339;
 			
 			// aapt resource value: 0x7F010002
-			public const int AridGarden = 2130771970;
+			public const int agavedrop2 = 2130771970;
 			
 			// aapt resource value: 0x7F010003
-			public const int AridGarden2 = 2130771971;
+			public const int AridGarden = 2130771971;
 			
 			// aapt resource value: 0x7F010004
-			public const int AridGarden3 = 2130771972;
+			public const int AridGarden2 = 2130771972;
 			
 			// aapt resource value: 0x7F010005
-			public const int AridGarden4 = 2130771973;
+			public const int AridGarden3 = 2130771973;
+			
+			// aapt resource value: 0x7F010006
+			public const int AridGarden4 = 2130771974;
+			
+			// aapt resource value: 0x7F010007
+			public const int Arid_Garden = 2130771975;
 			
 			// aapt resource value: 0x7F090054
 			public const int avd_hide_password = 2131296340;
@@ -2242,29 +2248,38 @@ namespace PrototypeWiki
 			// aapt resource value: 0x7F090055
 			public const int avd_show_password = 2131296341;
 			
-			// aapt resource value: 0x7F010006
-			public const int crops = 2130771974;
-			
-			// aapt resource value: 0x7F010007
-			public const int crops2 = 2130771975;
-			
 			// aapt resource value: 0x7F010008
-			public const int crops3 = 2130771976;
+			public const int cactusfruitdrop = 2130771976;
 			
 			// aapt resource value: 0x7F010009
-			public const int crops4 = 2130771977;
+			public const int cassavadrop = 2130771977;
 			
 			// aapt resource value: 0x7F010010
-			public const int crops5 = 2130771984;
+			public const int chickpeadrop = 2130771984;
 			
 			// aapt resource value: 0x7F010011
-			public const int crops6 = 2130771985;
+			public const int crops = 2130771985;
 			
 			// aapt resource value: 0x7F010012
-			public const int crops7 = 2130771986;
+			public const int crops2 = 2130771986;
 			
 			// aapt resource value: 0x7F010013
-			public const int cropsome = 2130771987;
+			public const int crops3 = 2130771987;
+			
+			// aapt resource value: 0x7F010014
+			public const int crops4 = 2130771988;
+			
+			// aapt resource value: 0x7F010015
+			public const int crops5 = 2130771989;
+			
+			// aapt resource value: 0x7F010016
+			public const int crops6 = 2130771990;
+			
+			// aapt resource value: 0x7F010017
+			public const int crops7 = 2130771991;
+			
+			// aapt resource value: 0x7F010018
+			public const int cropsome = 2130771992;
 			
 			// aapt resource value: 0x7F090056
 			public const int design_bottom_navigation_item_background = 2131296342;
@@ -2284,17 +2299,20 @@ namespace PrototypeWiki
 			// aapt resource value: 0x7F09005B
 			public const int design_snackbar_background = 2131296347;
 			
-			// aapt resource value: 0x7F010014
-			public const int FrostGarden3 = 2130771988;
+			// aapt resource value: 0x7F010019
+			public const int FrostGarden3 = 2130771993;
 			
-			// aapt resource value: 0x7F010015
-			public const int gardens = 2130771989;
+			// aapt resource value: 0x7F010020
+			public const int gardens = 2130772000;
 			
-			// aapt resource value: 0x7F010016
-			public const int gardens2 = 2130771990;
+			// aapt resource value: 0x7F010021
+			public const int gardens2 = 2130772001;
 			
-			// aapt resource value: 0x7F010017
-			public const int gardens3 = 2130771991;
+			// aapt resource value: 0x7F010022
+			public const int gardens3 = 2130772002;
+			
+			// aapt resource value: 0x7F010023
+			public const int lentildrop = 2130772003;
 			
 			// aapt resource value: 0x7F09005C
 			public const int navigation_empty_icon = 2131296348;
@@ -2334,6 +2352,9 @@ namespace PrototypeWiki
 			
 			// aapt resource value: 0x7F09000C
 			public const int notify_panel_notification_icon_bg = 2131296268;
+			
+			// aapt resource value: 0x7F010024
+			public const int sisaldrop = 2130772004;
 			
 			// aapt resource value: 0x7F090069
 			public const int tooltip_frame_dark = 2131296361;
@@ -2555,6 +2576,12 @@ namespace PrototypeWiki
 			// aapt resource value: 0x7F0C0038
 			public const int image = 2131492920;
 			
+			// aapt resource value: 0x7F020028
+			public const int imageButton1 = 2130837544;
+			
+			// aapt resource value: 0x7F020029
+			public const int imageButton2 = 2130837545;
+			
 			// aapt resource value: 0x7F020017
 			public const int imageButton3 = 2130837527;
 			
@@ -2569,6 +2596,9 @@ namespace PrototypeWiki
 			
 			// aapt resource value: 0x7F020021
 			public const int imageButton7 = 2130837537;
+			
+			// aapt resource value: 0x7F020026
+			public const int imageView1 = 2130837542;
 			
 			// aapt resource value: 0x7F0C000C
 			public const int info = 2131492876;
@@ -2593,6 +2623,9 @@ namespace PrototypeWiki
 			
 			// aapt resource value: 0x7F0C000F
 			public const int line3 = 2131492879;
+			
+			// aapt resource value: 0x7F020024
+			public const int linearLayout1 = 2130837540;
 			
 			// aapt resource value: 0x7F0C0040
 			public const int listMode = 2131492928;
@@ -2791,6 +2824,15 @@ namespace PrototypeWiki
 			
 			// aapt resource value: 0x7F0C007C
 			public const int textSpacerNoTitle = 2131492988;
+			
+			// aapt resource value: 0x7F020025
+			public const int textView1 = 2130837541;
+			
+			// aapt resource value: 0x7F020023
+			public const int textView2 = 2130837539;
+			
+			// aapt resource value: 0x7F020027
+			public const int textView3 = 2130837543;
 			
 			// aapt resource value: 0x7F0C007D
 			public const int text_input_password_toggle = 2131492989;
@@ -3033,6 +3075,9 @@ namespace PrototypeWiki
 			
 			// aapt resource value: 0x7F030004
 			public const int GardenLayout = 2130903044;
+			
+			// aapt resource value: 0x7F030005
+			public const int GardenLayout_AridGarden = 2130903045;
 			
 			// aapt resource value: 0x7F0F0001
 			public const int notification_action = 2131689473;

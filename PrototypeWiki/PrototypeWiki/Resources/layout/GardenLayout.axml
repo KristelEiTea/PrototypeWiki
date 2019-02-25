@@ -24,7 +24,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:background="#ff4c852b"
+        android:background="#ff326719"
         android:id="@+id/aridGarden" />
     <ImageButton
         android:src="@drawable/FrostGarden3"
@@ -32,41 +32,41 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:id="@+id/frostGarden"
-        android:background="#ff326719" />
+        android:background="#ff4c852b" />
 	<ImageButton
 		android:src="@android:drawable/ic_menu_gallery"
 		android:layout_width="match_parent"
 		android:layout_height="wrap_content"
 		android:layout_weight="1"
-		android:background="#ff65a83c"
+		android:background="#ff326719"
 		android:id="@+id/imageButton3" />
 	<ImageButton
 		android:src="@android:drawable/ic_menu_gallery"
 		android:layout_width="match_parent"
 		android:layout_height="wrap_content"
 		android:layout_weight="1"
-		android:background="#ff448824"
+		android:background="#ff4c852b"
 		android:id="@+id/imageButton4" />
 	<ImageButton
 		android:src="@android:drawable/ic_menu_gallery"
 		android:layout_width="match_parent"
 		android:layout_height="wrap_content"
 		android:layout_weight="1"
-		android:background="#ff65a83c"
+		android:background="#ff326719"
 		android:id="@+id/imageButton5" />
 	<ImageButton
 		android:src="@android:drawable/ic_menu_gallery"
 		android:layout_width="match_parent"
 		android:layout_height="wrap_content"
 		android:layout_weight="1"
-		android:background="#ff448824"
+		android:background="#ff4c852b"
 		android:id="@+id/imageButton6" />
 	<ImageButton
 		android:src="@android:drawable/ic_menu_gallery"
 		android:layout_width="match_parent"
 		android:layout_height="wrap_content"
 		android:layout_weight="1"
-		android:background="#ff65a83c"
+		android:background="#ff326719"
 		android:id="@+id/imageButton7" />
 	<Button
 		android:text="version 1.7.10 or lower"

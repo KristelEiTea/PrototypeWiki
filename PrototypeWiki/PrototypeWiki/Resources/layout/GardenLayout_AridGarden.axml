@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="#ffd7f8ca">
+	<TextView
+		android:text="Arid Garden"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/textView2"
+		android:textAlignment="center"
+		android:textColor="#ffbf360c" />
+	<LinearLayout
+		android:orientation="horizontal"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/linearLayout1">
+		<TextView
+			android:text="Arid Gardens are a worldgen block that has a chance to drop a few of the listed items when broken. They are stackable items. They spread over time in a manner similar to mushrooms in vanilla Minecraft. 
+
+Arid Gardens are found in Sandy and Mesa biomes. 
+
+Gardens can be picked up and transplanted by clicking on them while crouching and then placed on sand. They can be harvested by breaking the garden to obtain the garden items. "
+			android:textAppearance="?android:attr/textAppearanceSmall"
+			android:layout_width="311.0dp"
+			android:layout_height="match_parent"
+			android:minWidth="25px"
+			android:minHeight="25px"
+			android:id="@+id/textView1"
+			android:textAlignment="viewStart"
+			android:textColor="#ff000000" />
+		<ImageView
+			android:src="@drawable/Arid_Garden"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:id="@+id/imageView1" />
+	</LinearLayout>
+	<TextView
+		android:text="DROPS:"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/textView3"
+		android:textAlignment="center" />
+	<ImageButton
+		android:src="@drawable/agavedrop2"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/imageButton1"
+		android:background="#ffafec97" />
+	<ImageButton
+		android:src="@drawable/cactusfruitdrop"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:background="#ffbff9a8"
+		android:id="@+id/imageButton2" />
+	<ImageButton
+		android:src="@drawable/cassavadrop"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:background="#ffafec97" />
+	<ImageButton
+		android:src="@drawable/chickpeadrop"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:background="#ffbff9a8"
+		android:id="@+id/imageButton3" />
+	<ImageButton
+		android:src="@drawable/lentildrop"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:background="#ffafec97"
+		android:id="@+id/imageButton4" />
+	<ImageButton
+		android:src="@drawable/sisaldrop"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:background="#ffbff9a8"
+		android:id="@+id/imageButton5" />
+</LinearLayout>
