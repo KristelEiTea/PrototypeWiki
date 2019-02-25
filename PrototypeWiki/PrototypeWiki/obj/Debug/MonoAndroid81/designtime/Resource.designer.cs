@@ -2233,35 +2233,38 @@ namespace PrototypeWiki
 			// aapt resource value: 0x7F010004
 			public const int AridGarden3 = 2130771972;
 			
+			// aapt resource value: 0x7F010005
+			public const int AridGarden4 = 2130771973;
+			
 			// aapt resource value: 0x7F090054
 			public const int avd_hide_password = 2131296340;
 			
 			// aapt resource value: 0x7F090055
 			public const int avd_show_password = 2131296341;
 			
-			// aapt resource value: 0x7F010005
-			public const int crops = 2130771973;
-			
 			// aapt resource value: 0x7F010006
-			public const int crops2 = 2130771974;
+			public const int crops = 2130771974;
 			
 			// aapt resource value: 0x7F010007
-			public const int crops3 = 2130771975;
+			public const int crops2 = 2130771975;
 			
 			// aapt resource value: 0x7F010008
-			public const int crops4 = 2130771976;
+			public const int crops3 = 2130771976;
 			
 			// aapt resource value: 0x7F010009
-			public const int crops5 = 2130771977;
+			public const int crops4 = 2130771977;
 			
 			// aapt resource value: 0x7F010010
-			public const int crops6 = 2130771984;
+			public const int crops5 = 2130771984;
 			
 			// aapt resource value: 0x7F010011
-			public const int crops7 = 2130771985;
+			public const int crops6 = 2130771985;
 			
 			// aapt resource value: 0x7F010012
-			public const int cropsome = 2130771986;
+			public const int crops7 = 2130771986;
+			
+			// aapt resource value: 0x7F010013
+			public const int cropsome = 2130771987;
 			
 			// aapt resource value: 0x7F090056
 			public const int design_bottom_navigation_item_background = 2131296342;
@@ -2281,14 +2284,17 @@ namespace PrototypeWiki
 			// aapt resource value: 0x7F09005B
 			public const int design_snackbar_background = 2131296347;
 			
-			// aapt resource value: 0x7F010013
-			public const int gardens = 2130771987;
-			
 			// aapt resource value: 0x7F010014
-			public const int gardens2 = 2130771988;
+			public const int FrostGarden3 = 2130771988;
 			
 			// aapt resource value: 0x7F010015
-			public const int gardens3 = 2130771989;
+			public const int gardens = 2130771989;
+			
+			// aapt resource value: 0x7F010016
+			public const int gardens2 = 2130771990;
+			
+			// aapt resource value: 0x7F010017
+			public const int gardens3 = 2130771991;
 			
 			// aapt resource value: 0x7F09005C
 			public const int navigation_empty_icon = 2131296348;
@@ -2347,6 +2353,9 @@ namespace PrototypeWiki
 		
 		public partial class Id
 		{
+			
+			// aapt resource value: 0x7F020014
+			public const int aboutGardens = 2130837524;
 			
 			// aapt resource value: 0x7F0C0001
 			public const int action0 = 2131492865;
@@ -2414,8 +2423,8 @@ namespace PrototypeWiki
 			// aapt resource value: 0x7F0C0016
 			public const int alertTitle = 2131492886;
 			
-			// aapt resource value: 0x7F020013
-			public const int aridGarden = 2130837523;
+			// aapt resource value: 0x7F020015
+			public const int aridGarden = 2130837525;
 			
 			// aapt resource value: 0x7F0C0006
 			public const int async = 2131492870;
@@ -2435,6 +2444,9 @@ namespace PrototypeWiki
 			// aapt resource value: 0x7F0C001C
 			public const int cancel_action = 2131492892;
 			
+			// aapt resource value: 0x7F020003
+			public const int categoryText = 2130837507;
+			
 			// aapt resource value: 0x7F0C001D
 			public const int center = 2131492893;
 			
@@ -2450,14 +2462,14 @@ namespace PrototypeWiki
 			// aapt resource value: 0x7F0C0021
 			public const int contentPanel = 2131492897;
 			
-			// aapt resource value: 0x7F020010
-			public const int cookingUtensilsButton = 2130837520;
+			// aapt resource value: 0x7F020011
+			public const int cookingUtensilsButton = 2130837521;
 			
 			// aapt resource value: 0x7F0C0022
 			public const int coordinator = 2131492898;
 			
-			// aapt resource value: 0x7F020004
-			public const int cropsButton = 2130837508;
+			// aapt resource value: 0x7F020005
+			public const int cropsButton = 2130837509;
 			
 			// aapt resource value: 0x7F0C0023
 			public const int custom = 2131492899;
@@ -2465,8 +2477,8 @@ namespace PrototypeWiki
 			// aapt resource value: 0x7F0C0024
 			public const int customPanel = 2131492900;
 			
-			// aapt resource value: 0x7F020005
-			public const int dairyButton = 2130837509;
+			// aapt resource value: 0x7F020006
+			public const int dairyButton = 2130837510;
 			
 			// aapt resource value: 0x7F0C0025
 			public const int decor_content_parent = 2131492901;
@@ -2489,8 +2501,8 @@ namespace PrototypeWiki
 			// aapt resource value: 0x7F0C002B
 			public const int design_navigation_view = 2131492907;
 			
-			// aapt resource value: 0x7F020009
-			public const int drinkButton = 2130837513;
+			// aapt resource value: 0x7F020010
+			public const int drinkButton = 2130837520;
 			
 			// aapt resource value: 0x7F0C002C
 			public const int edit_query = 2131492908;
@@ -2513,14 +2525,20 @@ namespace PrototypeWiki
 			// aapt resource value: 0x7F0C0032
 			public const int @fixed = 2131492914;
 			
-			// aapt resource value: 0x7F020008
-			public const int foodButton = 2130837512;
+			// aapt resource value: 0x7F020009
+			public const int foodButton = 2130837513;
 			
 			// aapt resource value: 0x7F0C0009
 			public const int forever = 2131492873;
 			
-			// aapt resource value: 0x7F020003
-			public const int gardenButton = 2130837507;
+			// aapt resource value: 0x7F020016
+			public const int frostGarden = 2130837526;
+			
+			// aapt resource value: 0x7F020004
+			public const int gardenButton = 2130837508;
+			
+			// aapt resource value: 0x7F020013
+			public const int gardenText = 2130837523;
 			
 			// aapt resource value: 0x7F0C0034
 			public const int ghost_view = 2131492916;
@@ -2537,29 +2555,26 @@ namespace PrototypeWiki
 			// aapt resource value: 0x7F0C0038
 			public const int image = 2131492920;
 			
-			// aapt resource value: 0x7F020014
-			public const int imageButton2 = 2130837524;
-			
-			// aapt resource value: 0x7F020015
-			public const int imageButton3 = 2130837525;
-			
-			// aapt resource value: 0x7F020016
-			public const int imageButton4 = 2130837526;
-			
 			// aapt resource value: 0x7F020017
-			public const int imageButton5 = 2130837527;
+			public const int imageButton3 = 2130837527;
 			
 			// aapt resource value: 0x7F020018
-			public const int imageButton6 = 2130837528;
+			public const int imageButton4 = 2130837528;
 			
 			// aapt resource value: 0x7F020019
-			public const int imageButton7 = 2130837529;
+			public const int imageButton5 = 2130837529;
+			
+			// aapt resource value: 0x7F020020
+			public const int imageButton6 = 2130837536;
+			
+			// aapt resource value: 0x7F020021
+			public const int imageButton7 = 2130837537;
 			
 			// aapt resource value: 0x7F0C000C
 			public const int info = 2131492876;
 			
-			// aapt resource value: 0x7F020006
-			public const int ingredientsButton = 2130837510;
+			// aapt resource value: 0x7F020007
+			public const int ingredientsButton = 2130837511;
 			
 			// aapt resource value: 0x7F0C000D
 			public const int italic = 2131492877;
@@ -2585,14 +2600,14 @@ namespace PrototypeWiki
 			// aapt resource value: 0x7F0C0041
 			public const int list_item = 2131492929;
 			
-			// aapt resource value: 0x7F020011
-			public const int machinesButton = 2130837521;
+			// aapt resource value: 0x7F020012
+			public const int machinesButton = 2130837522;
 			
 			// aapt resource value: 0x7F0C0042
 			public const int masked = 2131492930;
 			
-			// aapt resource value: 0x7F020007
-			public const int meatButton = 2130837511;
+			// aapt resource value: 0x7F020008
+			public const int meatButton = 2130837512;
 			
 			// aapt resource value: 0x7F0C0043
 			public const int media_actions = 2131492931;
@@ -2777,9 +2792,6 @@ namespace PrototypeWiki
 			// aapt resource value: 0x7F0C007C
 			public const int textSpacerNoTitle = 2131492988;
 			
-			// aapt resource value: 0x7F020012
-			public const int textView1 = 2130837522;
-			
 			// aapt resource value: 0x7F0C007D
 			public const int text_input_password_toggle = 2131492989;
 			
@@ -2824,6 +2836,9 @@ namespace PrototypeWiki
 			
 			// aapt resource value: 0x7F0C008D
 			public const int up = 2131493005;
+			
+			// aapt resource value: 0x7F020022
+			public const int versionLower = 2130837538;
 			
 			// aapt resource value: 0x7F0C008E
 			public const int view_offset_helper = 2131493006;
