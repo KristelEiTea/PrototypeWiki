@@ -4,7 +4,7 @@
 	android:orientation="vertical"
 	android:layout_width="match_parent"
 	android:layout_height="match_parent"
-	android:background="#ff0f3709">
+	android:background="#ff14470d">
 	<TextView
 		android:text="CATEGORIES"
 		android:textAppearance="?android:attr/textAppearanceLarge"
@@ -77,5 +77,4 @@
 		android:layout_weight="1"
 		android:background="#ff1d6413"
 		android:id="@+id/machinesButton" />
-
 </LinearLayout>

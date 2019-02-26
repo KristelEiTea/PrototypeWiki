@@ -6,6 +6,10 @@
   <application android:allowBackup="true" android:icon="@mipmap/ic_launcher" android:label="@string/app_name" android:roundIcon="@mipmap/ic_launcher_round" android:supportsRtl="true" android:theme="@style/AppTheme" android:name="android.app.Application" android:debuggable="true">
     <activity android:label="Categories" android:name="md5d7b43bd2f2d83bf6047896692b1ced59.Categories" />
     <activity android:label="GardenActivity" android:name="md5d7b43bd2f2d83bf6047896692b1ced59.GardenActivity" />
+    <activity android:label="GardenActivity_AboutGardens" android:name="md5d7b43bd2f2d83bf6047896692b1ced59.GardenActivity_AboutGardens" />
+    <activity android:label="GardenActivity_AridGarden" android:name="md5d7b43bd2f2d83bf6047896692b1ced59.GardenActivity_AridGarden" />
+    <activity android:label="Item_AgaveActivity" android:name="md5d7b43bd2f2d83bf6047896692b1ced59.Item_AgaveActivity" />
+    <activity android:label="Item_PotActivity" android:name="md5d7b43bd2f2d83bf6047896692b1ced59.Item_PotActivity" />
     <activity android:label="@string/app_name" android:theme="@style/AppTheme" android:name="md5d7b43bd2f2d83bf6047896692b1ced59.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
