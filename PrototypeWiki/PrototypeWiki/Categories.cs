@@ -12,7 +12,7 @@ using Android.Widget;
 
 namespace PrototypeWiki
 {
-    [Activity(Label = "Categories")]
+    [Activity(Label = "Categories", Theme = "@style/AppTheme")]
     public class Categories : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)

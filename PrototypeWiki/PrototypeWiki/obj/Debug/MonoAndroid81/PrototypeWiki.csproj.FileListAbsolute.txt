@@ -1,92 +1,10 @@
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\bin\Debug\PrototypeWiki.dll
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\bin\Debug\PrototypeWiki.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\bin\Debug\PrototypeWiki.PrototypeWiki.apk
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\bin\Debug\PrototypeWiki.PrototypeWiki-Signed.apk
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res.flag
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\PrototypeWiki.csproj.CoreCompileInputs.cache
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\PrototypeWiki.dll
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\PrototypeWiki.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\android\bin\PrototypeWiki.PrototypeWiki.apk
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\layout\activity_main.xml
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\values\colors.xml
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\values\ic_launcher_background.xml
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\values\strings.xml
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\values\styles.xml
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\mipmap-anydpi-v26\ic_launcher.xml
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\mipmap-anydpi-v26\ic_launcher_round.xml
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\mipmap-hdpi\ic_launcher.png
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\mipmap-hdpi\ic_launcher_foreground.png
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\mipmap-hdpi\ic_launcher_round.png
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\mipmap-mdpi\ic_launcher.png
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\mipmap-mdpi\ic_launcher_foreground.png
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\mipmap-mdpi\ic_launcher_round.png
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\mipmap-xhdpi\ic_launcher.png
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\mipmap-xhdpi\ic_launcher_foreground.png
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\mipmap-xhdpi\ic_launcher_round.png
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\mipmap-xxhdpi\ic_launcher.png
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\mipmap-xxhdpi\ic_launcher_foreground.png
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\mipmap-xxhdpi\ic_launcher_round.png
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\mipmap-xxxhdpi\ic_launcher.png
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\mipmap-xxxhdpi\ic_launcher_round.png
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\layout\categories.xml
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\R.cs.flag
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\R.txt
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\uploadflags.txt
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\bin\Debug\Mono.Android.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\bin\Debug\mscorlib.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\bin\Debug\System.Core.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\bin\Debug\System.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\bin\Debug\System.Xml.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\bin\Debug\System.ComponentModel.Composition.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\bin\Debug\System.Net.Http.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\bin\Debug\System.Runtime.Serialization.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\bin\Debug\System.ServiceModel.Internals.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\bin\Debug\Mono.Security.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\PrototypeWiki.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\Mono.Android.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\mscorlib.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\System.Core.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\System.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\System.Xml.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\System.ComponentModel.Composition.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\System.Net.Http.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\System.Runtime.Serialization.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\System.ServiceModel.Internals.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\Mono.Security.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\android\assets\Mono.Android.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\android\assets\Mono.Security.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\android\assets\mscorlib.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\android\assets\PrototypeWiki.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\android\assets\System.ComponentModel.Composition.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\android\assets\System.Core.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\android\assets\System.Net.Http.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\android\assets\System.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\android\assets\System.Runtime.Serialization.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\android\assets\System.ServiceModel.Internals.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\android\assets\System.Xml.pdb
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\PrototypeWiki.csprojAssemblyReference.cache
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\layout\gardenlayout.xml
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\gardens.png
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\gardens2.png
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\gardens3.png
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\crops.png
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\crops2.png
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\crops3.png
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\crops4.png
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\crops5.png
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\crops6.png
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\crops7.png
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\aridgarden.png
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\aridgarden2.png
-D:\#SCHOOL\#Programmeerimine\C#\#MobRakendused\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\aridgarden3.png
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res.flag
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\PrototypeWiki.csproj.CoreCompileInputs.cache
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\PrototypeWiki.csprojAssemblyReference.cache
 D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\bin\Debug\PrototypeWiki.dll
 D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\bin\Debug\PrototypeWiki.pdb
 D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\bin\Debug\PrototypeWiki.PrototypeWiki.apk
 D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\bin\Debug\PrototypeWiki.PrototypeWiki-Signed.apk
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\PrototypeWiki.csprojAssemblyReference.cache
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res.flag
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\PrototypeWiki.csproj.CoreCompileInputs.cache
 D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\PrototypeWiki.dll
 D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\PrototypeWiki.pdb
 D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\android\bin\PrototypeWiki.PrototypeWiki.apk
@@ -138,41 +56,6 @@ D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\Mo
 D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\lentildrop.png
 D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\sisaldrop.png
 D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\arid_garden.png
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\R.cs.flag
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\R.txt
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\uploadflags.txt
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\bin\Debug\Mono.Android.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\bin\Debug\Mono.Security.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\bin\Debug\mscorlib.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\bin\Debug\System.ComponentModel.Composition.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\bin\Debug\System.Core.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\bin\Debug\System.Net.Http.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\bin\Debug\System.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\bin\Debug\System.Runtime.Serialization.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\bin\Debug\System.ServiceModel.Internals.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\bin\Debug\System.Xml.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\android\assets\Mono.Android.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\android\assets\Mono.Security.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\android\assets\mscorlib.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\android\assets\PrototypeWiki.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\android\assets\System.ComponentModel.Composition.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\android\assets\System.Core.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\android\assets\System.Net.Http.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\android\assets\System.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\android\assets\System.Runtime.Serialization.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\android\assets\System.ServiceModel.Internals.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\android\assets\System.Xml.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\Mono.Android.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\Mono.Security.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\mscorlib.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\PrototypeWiki.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\System.ComponentModel.Composition.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\System.Core.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\System.Net.Http.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\System.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\System.Runtime.Serialization.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\System.ServiceModel.Internals.pdb
-D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\System.Xml.pdb
 D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\aboutgardens.png
 D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\aboutgardens2.png
 D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\layout\gardenlayout_aboutgardens.xml
@@ -193,4 +76,31 @@ D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\Mo
 D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\irontiny.png
 D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\sticktiny.png
 D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\bricktiny.png
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\layout\recipesugar_agavepot.xml
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\sugar3.png
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\R.cs.flag
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\R.txt
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\uploadflags.txt
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\bin\Debug\Mono.Android.pdb
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\bin\Debug\Mono.Security.pdb
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\bin\Debug\mscorlib.pdb
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\bin\Debug\System.ComponentModel.Composition.pdb
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\bin\Debug\System.Core.pdb
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\bin\Debug\System.Net.Http.pdb
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\bin\Debug\System.pdb
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\bin\Debug\System.Runtime.Serialization.pdb
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\bin\Debug\System.ServiceModel.Internals.pdb
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\bin\Debug\System.Xml.pdb
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\PrototypeWiki.pdb
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\Mono.Android.pdb
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\mscorlib.pdb
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\System.Core.pdb
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\System.pdb
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\System.Xml.pdb
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\System.ComponentModel.Composition.pdb
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\System.Net.Http.pdb
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\System.Runtime.Serialization.pdb
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\System.ServiceModel.Internals.pdb
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\Mono.Security.pdb
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\android\assets\PrototypeWiki.pdb
 D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\PrototypeWiki.pdb

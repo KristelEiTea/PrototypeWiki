@@ -20,15 +20,15 @@ namespace PrototypeWiki
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.Item_Agave);
             // Create your application here
-            var itemPot = FindViewById<ImageButton>(Resource.Id.agaveItemPot);
+            var sugarRecipe = FindViewById<ImageButton>(Resource.Id.AgaveSugarRecipeImageButton);
 
-            itemPot.Click += ItemPot_Click;
+            sugarRecipe.Click += sugarRecipe_Click;
         }
 
-        private void ItemPot_Click(object sender, EventArgs e)
+        private void sugarRecipe_Click(object sender, EventArgs e)
         {
-            var item_pot = new Intent(this, typeof(Item_PotActivity));
-            StartActivity(item_pot);
+            var sugar_Recipe = new Intent(this, typeof(RecipeSugar_AgavePotActivity));
+            StartActivity(sugar_Recipe);
         }
     }
 }

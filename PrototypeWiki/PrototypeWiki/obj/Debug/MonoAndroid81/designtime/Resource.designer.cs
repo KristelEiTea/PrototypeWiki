@@ -2405,7 +2405,10 @@ namespace PrototypeWiki
 			public const int Sugar2 = 2130772032;
 			
 			// aapt resource value: 0x7F010041
-			public const int sugartiny = 2130772033;
+			public const int Sugar3 = 2130772033;
+			
+			// aapt resource value: 0x7F010042
+			public const int sugartiny = 2130772034;
 			
 			// aapt resource value: 0x7F090069
 			public const int tooltip_frame_dark = 2131296361;
@@ -2492,8 +2495,14 @@ namespace PrototypeWiki
 			// aapt resource value: 0x7F0C0015
 			public const int add = 2131492885;
 			
-			// aapt resource value: 0x7F020042
-			public const int agaveItemPot = 2130837570;
+			// aapt resource value: 0x7F020049
+			public const int AgaveSugarRecipeAgave = 2130837577;
+			
+			// aapt resource value: 0x7F020040
+			public const int AgaveSugarRecipeImageButton = 2130837568;
+			
+			// aapt resource value: 0x7F020048
+			public const int AgaveSugarRecipePot = 2130837576;
 			
 			// aapt resource value: 0x7F0C0016
 			public const int alertTitle = 2131492886;
@@ -2645,8 +2654,8 @@ namespace PrototypeWiki
 			// aapt resource value: 0x7F0C0038
 			public const int image = 2131492920;
 			
-			// aapt resource value: 0x7F020041
-			public const int imageButton1 = 2130837569;
+			// aapt resource value: 0x7F020042
+			public const int imageButton1 = 2130837570;
 			
 			// aapt resource value: 0x7F020043
 			public const int imageButton2 = 2130837571;
@@ -2702,8 +2711,8 @@ namespace PrototypeWiki
 			// aapt resource value: 0x7F020031
 			public const int linearLayout1 = 2130837553;
 			
-			// aapt resource value: 0x7F020040
-			public const int linearLayout2 = 2130837568;
+			// aapt resource value: 0x7F020041
+			public const int linearLayout2 = 2130837569;
 			
 			// aapt resource value: 0x7F020038
 			public const int linearLayout3 = 2130837560;
@@ -3237,6 +3246,9 @@ namespace PrototypeWiki
 			
 			// aapt resource value: 0x7F0F0006
 			public const int notification_template_part_time = 2131689478;
+			
+			// aapt resource value: 0x7F030009
+			public const int RecipeSugar_AgavePot = 2130903049;
 			
 			// aapt resource value: 0x7F0F0038
 			public const int select_dialog_item_material = 2131689528;

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+	<TextView
+		android:text="SUGAR"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="match_parent"
+		android:layout_height="30.0dp"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:id="@+id/textView1"
+		android:textAlignment="center"
+		android:textColor="#ff000000" />
+	<ImageView
+		android:src="@drawable/sugar3"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/imageView1" />
+	<TextView
+		android:text="RECIPE INCLUDES:"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/textView2"
+		android:textColor="#ff000000"
+		android:textAlignment="center"
+		android:layout_marginTop="22.0dp"
+		android:layout_marginBottom="9.5dp" />
+	<ImageButton
+		android:src="@drawable/pottiny"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/AgaveSugarRecipePot" />
+	<ImageButton
+		android:src="@drawable/AgaveDrop2"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/AgaveSugarRecipeAgave" />
+</LinearLayout>

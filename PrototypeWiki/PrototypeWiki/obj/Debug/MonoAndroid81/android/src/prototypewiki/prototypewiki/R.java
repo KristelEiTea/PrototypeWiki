@@ -2926,13 +2926,13 @@ containing a value of this type.
         public static final int aridgarden3=0x7f02005b;
         public static final int aridgarden4=0x7f02005c;
         public static final int avd_hide_password=0x7f02005d;
-        public static final int avd_hide_password_1=0x7f020092;
-        public static final int avd_hide_password_2=0x7f020093;
-        public static final int avd_hide_password_3=0x7f020094;
+        public static final int avd_hide_password_1=0x7f020093;
+        public static final int avd_hide_password_2=0x7f020094;
+        public static final int avd_hide_password_3=0x7f020095;
         public static final int avd_show_password=0x7f02005e;
-        public static final int avd_show_password_1=0x7f020095;
-        public static final int avd_show_password_2=0x7f020096;
-        public static final int avd_show_password_3=0x7f020097;
+        public static final int avd_show_password_1=0x7f020096;
+        public static final int avd_show_password_2=0x7f020097;
+        public static final int avd_show_password_3=0x7f020098;
         public static final int bricktiny=0x7f02005f;
         public static final int cactusfruitdrop=0x7f020060;
         public static final int cassavadrop=0x7f020061;
@@ -2968,8 +2968,8 @@ containing a value of this type.
         public static final int notification_bg_normal=0x7f02007f;
         public static final int notification_bg_normal_pressed=0x7f020080;
         public static final int notification_icon_background=0x7f020081;
-        public static final int notification_template_icon_bg=0x7f020090;
-        public static final int notification_template_icon_low_bg=0x7f020091;
+        public static final int notification_template_icon_bg=0x7f020091;
+        public static final int notification_template_icon_low_bg=0x7f020092;
         public static final int notification_tile_bg=0x7f020082;
         public static final int notify_panel_notification_icon_bg=0x7f020083;
         public static final int potcraftcurrent=0x7f020084;
@@ -2981,12 +2981,16 @@ containing a value of this type.
         public static final int sisaldrop=0x7f02008a;
         public static final int sticktiny=0x7f02008b;
         public static final int sugar2=0x7f02008c;
-        public static final int sugartiny=0x7f02008d;
-        public static final int tooltip_frame_dark=0x7f02008e;
-        public static final int tooltip_frame_light=0x7f02008f;
+        public static final int sugar3=0x7f02008d;
+        public static final int sugartiny=0x7f02008e;
+        public static final int tooltip_frame_dark=0x7f02008f;
+        public static final int tooltip_frame_light=0x7f020090;
     }
     public static final class id {
         public static final int ALT=0x7f080032;
+        public static final int AgaveSugarRecipeAgave=0x7f0800db;
+        public static final int AgaveSugarRecipeImageButton=0x7f0800bf;
+        public static final int AgaveSugarRecipePot=0x7f0800da;
         public static final int CTRL=0x7f080033;
         public static final int FUNCTION=0x7f080034;
         public static final int META=0x7f080035;
@@ -3014,7 +3018,6 @@ containing a value of this type.
         public static final int actions=0x7f0800d7;
         public static final int activity_chooser_view_content=0x7f08005d;
         public static final int add=0x7f080027;
-        public static final int agaveItemPot=0x7f0800c1;
         public static final int alertTitle=0x7f080070;
         public static final int all=0x7f080052;
         public static final int always=0x7f080038;
@@ -3081,7 +3084,7 @@ containing a value of this type.
         public static final int icon_group=0x7f0800d8;
         public static final int ifRoom=0x7f08003a;
         public static final int image=0x7f08005f;
-        public static final int imageButton1=0x7f0800c0;
+        public static final int imageButton1=0x7f0800c1;
         public static final int imageButton2=0x7f0800c2;
         public static final int imageButton3=0x7f0800aa;
         public static final int imageButton4=0x7f0800ab;
@@ -3100,17 +3103,17 @@ containing a value of this type.
         public static final int line1=0x7f080017;
         public static final int line3=0x7f080018;
         public static final int linearLayout1=0x7f0800b6;
-        public static final int linearLayout2=0x7f0800bf;
+        public static final int linearLayout2=0x7f0800c0;
         public static final int linearLayout3=0x7f0800bd;
         public static final int linearLayout4=0x7f0800c4;
         public static final int linearLayout5=0x7f0800c5;
         public static final int listMode=0x7f08001d;
         public static final int list_item=0x7f080061;
         public static final int machinesButton=0x7f080095;
-        public static final int masked=0x7f0800dc;
+        public static final int masked=0x7f0800de;
         public static final int meatButton=0x7f080091;
         public static final int media_actions=0x7f0800cd;
-        public static final int message=0x7f0800da;
+        public static final int message=0x7f0800dc;
         public static final int middle=0x7f080031;
         public static final int mini=0x7f080053;
         public static final int multiply=0x7f080028;
@@ -3204,7 +3207,7 @@ containing a value of this type.
         public static final int useLogo=0x7f080026;
         public static final int versionLower=0x7f0800af;
         public static final int view_offset_helper=0x7f080016;
-        public static final int visible=0x7f0800db;
+        public static final int visible=0x7f0800dd;
         public static final int withText=0x7f08003c;
         public static final int wrap_content=0x7f08002e;
     }
@@ -3283,11 +3286,12 @@ containing a value of this type.
         public static final int notification_template_media_custom=0x7f04003b;
         public static final int notification_template_part_chronometer=0x7f04003c;
         public static final int notification_template_part_time=0x7f04003d;
-        public static final int select_dialog_item_material=0x7f04003e;
-        public static final int select_dialog_multichoice_material=0x7f04003f;
-        public static final int select_dialog_singlechoice_material=0x7f040040;
-        public static final int support_simple_spinner_dropdown_item=0x7f040041;
-        public static final int tooltip=0x7f040042;
+        public static final int recipesugar_agavepot=0x7f04003e;
+        public static final int select_dialog_item_material=0x7f04003f;
+        public static final int select_dialog_multichoice_material=0x7f040040;
+        public static final int select_dialog_singlechoice_material=0x7f040041;
+        public static final int support_simple_spinner_dropdown_item=0x7f040042;
+        public static final int tooltip=0x7f040043;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;

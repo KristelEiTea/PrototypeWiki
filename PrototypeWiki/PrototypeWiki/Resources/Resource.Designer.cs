@@ -2257,26 +2257,26 @@ namespace PrototypeWiki
 			// aapt resource value: 0x7f02005d
 			public const int avd_hide_password = 2130837597;
 			
-			// aapt resource value: 0x7f020092
-			public const int avd_hide_password_1 = 2130837650;
-			
 			// aapt resource value: 0x7f020093
-			public const int avd_hide_password_2 = 2130837651;
+			public const int avd_hide_password_1 = 2130837651;
 			
 			// aapt resource value: 0x7f020094
-			public const int avd_hide_password_3 = 2130837652;
+			public const int avd_hide_password_2 = 2130837652;
+			
+			// aapt resource value: 0x7f020095
+			public const int avd_hide_password_3 = 2130837653;
 			
 			// aapt resource value: 0x7f02005e
 			public const int avd_show_password = 2130837598;
 			
-			// aapt resource value: 0x7f020095
-			public const int avd_show_password_1 = 2130837653;
-			
 			// aapt resource value: 0x7f020096
-			public const int avd_show_password_2 = 2130837654;
+			public const int avd_show_password_1 = 2130837654;
 			
 			// aapt resource value: 0x7f020097
-			public const int avd_show_password_3 = 2130837655;
+			public const int avd_show_password_2 = 2130837655;
+			
+			// aapt resource value: 0x7f020098
+			public const int avd_show_password_3 = 2130837656;
 			
 			// aapt resource value: 0x7f02005f
 			public const int bricktiny = 2130837599;
@@ -2383,11 +2383,11 @@ namespace PrototypeWiki
 			// aapt resource value: 0x7f020081
 			public const int notification_icon_background = 2130837633;
 			
-			// aapt resource value: 0x7f020090
-			public const int notification_template_icon_bg = 2130837648;
-			
 			// aapt resource value: 0x7f020091
-			public const int notification_template_icon_low_bg = 2130837649;
+			public const int notification_template_icon_bg = 2130837649;
+			
+			// aapt resource value: 0x7f020092
+			public const int notification_template_icon_low_bg = 2130837650;
 			
 			// aapt resource value: 0x7f020082
 			public const int notification_tile_bg = 2130837634;
@@ -2423,13 +2423,16 @@ namespace PrototypeWiki
 			public const int Sugar2 = 2130837644;
 			
 			// aapt resource value: 0x7f02008d
-			public const int sugartiny = 2130837645;
+			public const int Sugar3 = 2130837645;
 			
 			// aapt resource value: 0x7f02008e
-			public const int tooltip_frame_dark = 2130837646;
+			public const int sugartiny = 2130837646;
 			
 			// aapt resource value: 0x7f02008f
-			public const int tooltip_frame_light = 2130837647;
+			public const int tooltip_frame_dark = 2130837647;
+			
+			// aapt resource value: 0x7f020090
+			public const int tooltip_frame_light = 2130837648;
 			
 			static Drawable()
 			{
@@ -2446,6 +2449,15 @@ namespace PrototypeWiki
 			
 			// aapt resource value: 0x7f080032
 			public const int ALT = 2131230770;
+			
+			// aapt resource value: 0x7f0800db
+			public const int AgaveSugarRecipeAgave = 2131230939;
+			
+			// aapt resource value: 0x7f0800bf
+			public const int AgaveSugarRecipeImageButton = 2131230911;
+			
+			// aapt resource value: 0x7f0800da
+			public const int AgaveSugarRecipePot = 2131230938;
 			
 			// aapt resource value: 0x7f080033
 			public const int CTRL = 2131230771;
@@ -2527,9 +2539,6 @@ namespace PrototypeWiki
 			
 			// aapt resource value: 0x7f080027
 			public const int add = 2131230759;
-			
-			// aapt resource value: 0x7f0800c1
-			public const int agaveItemPot = 2131230913;
 			
 			// aapt resource value: 0x7f080070
 			public const int alertTitle = 2131230832;
@@ -2729,8 +2738,8 @@ namespace PrototypeWiki
 			// aapt resource value: 0x7f08005f
 			public const int image = 2131230815;
 			
-			// aapt resource value: 0x7f0800c0
-			public const int imageButton1 = 2131230912;
+			// aapt resource value: 0x7f0800c1
+			public const int imageButton1 = 2131230913;
 			
 			// aapt resource value: 0x7f0800c2
 			public const int imageButton2 = 2131230914;
@@ -2786,8 +2795,8 @@ namespace PrototypeWiki
 			// aapt resource value: 0x7f0800b6
 			public const int linearLayout1 = 2131230902;
 			
-			// aapt resource value: 0x7f0800bf
-			public const int linearLayout2 = 2131230911;
+			// aapt resource value: 0x7f0800c0
+			public const int linearLayout2 = 2131230912;
 			
 			// aapt resource value: 0x7f0800bd
 			public const int linearLayout3 = 2131230909;
@@ -2807,8 +2816,8 @@ namespace PrototypeWiki
 			// aapt resource value: 0x7f080095
 			public const int machinesButton = 2131230869;
 			
-			// aapt resource value: 0x7f0800dc
-			public const int masked = 2131230940;
+			// aapt resource value: 0x7f0800de
+			public const int masked = 2131230942;
 			
 			// aapt resource value: 0x7f080091
 			public const int meatButton = 2131230865;
@@ -2816,8 +2825,8 @@ namespace PrototypeWiki
 			// aapt resource value: 0x7f0800cd
 			public const int media_actions = 2131230925;
 			
-			// aapt resource value: 0x7f0800da
-			public const int message = 2131230938;
+			// aapt resource value: 0x7f0800dc
+			public const int message = 2131230940;
 			
 			// aapt resource value: 0x7f080031
 			public const int middle = 2131230769;
@@ -3098,8 +3107,8 @@ namespace PrototypeWiki
 			// aapt resource value: 0x7f080016
 			public const int view_offset_helper = 2131230742;
 			
-			// aapt resource value: 0x7f0800db
-			public const int visible = 2131230939;
+			// aapt resource value: 0x7f0800dd
+			public const int visible = 2131230941;
 			
 			// aapt resource value: 0x7f08003c
 			public const int withText = 2131230780;
@@ -3350,19 +3359,22 @@ namespace PrototypeWiki
 			public const int notification_template_part_time = 2130968637;
 			
 			// aapt resource value: 0x7f04003e
-			public const int select_dialog_item_material = 2130968638;
+			public const int RecipeSugar_AgavePot = 2130968638;
 			
 			// aapt resource value: 0x7f04003f
-			public const int select_dialog_multichoice_material = 2130968639;
+			public const int select_dialog_item_material = 2130968639;
 			
 			// aapt resource value: 0x7f040040
-			public const int select_dialog_singlechoice_material = 2130968640;
+			public const int select_dialog_multichoice_material = 2130968640;
 			
 			// aapt resource value: 0x7f040041
-			public const int support_simple_spinner_dropdown_item = 2130968641;
+			public const int select_dialog_singlechoice_material = 2130968641;
 			
 			// aapt resource value: 0x7f040042
-			public const int tooltip = 2130968642;
+			public const int support_simple_spinner_dropdown_item = 2130968642;
+			
+			// aapt resource value: 0x7f040043
+			public const int tooltip = 2130968643;
 			
 			static Layout()
 			{
