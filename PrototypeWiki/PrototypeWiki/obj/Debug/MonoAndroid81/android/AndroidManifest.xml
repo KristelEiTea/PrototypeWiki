@@ -9,6 +9,8 @@
     <activity android:label="GardenActivity_AboutGardens" android:name="md5d7b43bd2f2d83bf6047896692b1ced59.GardenActivity_AboutGardens" />
     <activity android:label="GardenActivity_AridGarden" android:name="md5d7b43bd2f2d83bf6047896692b1ced59.GardenActivity_AridGarden" />
     <activity android:label="Item_AgaveActivity" android:name="md5d7b43bd2f2d83bf6047896692b1ced59.Item_AgaveActivity" />
+    <activity android:label="Item_HoneyActivity" android:name="md5d7b43bd2f2d83bf6047896692b1ced59.Item_HoneyActivity" />
+    <activity android:label="Item_HoneycombActivity" android:name="md5d7b43bd2f2d83bf6047896692b1ced59.Item_HoneycombActivity" />
     <activity android:label="Item_PeanutActivity" android:name="md5d7b43bd2f2d83bf6047896692b1ced59.Item_PeanutActivity" />
     <activity android:label="Item_PotActivity" android:name="md5d7b43bd2f2d83bf6047896692b1ced59.Item_PotActivity" />
     <activity android:label="@string/app_name" android:theme="@style/AppTheme" android:name="md5d7b43bd2f2d83bf6047896692b1ced59.MainActivity">

@@ -61,6 +61,8 @@
     <Compile Include="GardenActivity_AboutGardens.cs" />
     <Compile Include="GardenActivity_AridGarden.cs" />
     <Compile Include="Item_AgaveActivity.cs" />
+    <Compile Include="Item_HoneyActivity.cs" />
+    <Compile Include="Item_HoneycombActivity.cs" />
     <Compile Include="Item_PeanutActivity.cs" />
     <Compile Include="Item_PotActivity.cs" />
     <Compile Include="MainActivity.cs" />
@@ -303,6 +305,28 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\Peanut_Growth.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\Item_Honey.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Honey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\presserhoney.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\presserhoney2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\Item_Honeycomb.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\aipary.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.

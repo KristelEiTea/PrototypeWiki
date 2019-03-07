@@ -47,7 +47,8 @@ namespace PrototypeWiki
 
         private void HoneyItem_Click(object sender, EventArgs e)
         {
-            throw new NotImplementedException();
+            var item_honey = new Intent(this, typeof(Item_HoneyActivity));
+            StartActivity(item_honey);
         }
 
         private void CookedChickenItem_Click(object sender, EventArgs e)
