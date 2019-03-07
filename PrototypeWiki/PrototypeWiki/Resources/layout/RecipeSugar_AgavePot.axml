@@ -30,13 +30,18 @@
 		android:layout_marginTop="22.0dp"
 		android:layout_marginBottom="9.5dp" />
 	<ImageButton
-		android:src="@drawable/pottiny"
-		android:layout_width="match_parent"
-		android:layout_height="wrap_content"
+		android:src="@drawable/potdrop"
+		android:layout_width="297.0dp"
+		android:layout_height="40.0dp"
+		android:layout_gravity="center"
+		android:background="#fff0f4c3"
 		android:id="@+id/AgaveSugarRecipePot" />
 	<ImageButton
 		android:src="@drawable/AgaveDrop2"
-		android:layout_width="match_parent"
-		android:layout_height="wrap_content"
-		android:id="@+id/AgaveSugarRecipeAgave" />
+		android:layout_width="297.0dp"
+		android:layout_height="40.0dp"
+		android:layout_gravity="center"
+		android:background="#fff0f4c3"
+		android:id="@+id/AgaveSugarRecipeAgave"
+		android:layout_marginTop="2.0dp" />
 </LinearLayout>

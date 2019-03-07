@@ -103,4 +103,17 @@ D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\Mo
 D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\System.ServiceModel.Internals.pdb
 D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\Mono.Security.pdb
 D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\android\assets\PrototypeWiki.pdb
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\sugardrop.png
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\sugardrop2.png
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\pemmicandrop.png
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\layout\recipepemmican_agavecookedchickenhoneypeanutpot.xml
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\pemmican_craft.png
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\pemmican_craft2.png
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\potdrop.png
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\potdrop2.png
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\peanutdrop.png
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\chickendrop.png
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\honeydrop.png
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\layout\item_peanut.xml
+D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\res\drawable\peanut_growth.png
 D:\#Games and Apps\GITHUB\PrototypeWiki\PrototypeWiki\PrototypeWiki\obj\Debug\MonoAndroid81\linksrc\PrototypeWiki.pdb

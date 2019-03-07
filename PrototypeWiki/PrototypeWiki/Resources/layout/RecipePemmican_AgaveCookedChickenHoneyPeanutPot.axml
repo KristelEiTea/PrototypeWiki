@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:gravity="center">
+	<TextView
+		android:text="PEMMICAN"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="match_parent"
+		android:layout_height="30.0dp"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:id="@+id/textView1"
+		android:textAlignment="center"
+		android:textColor="#ff000000" />
+	<ImageView
+		android:src="@drawable/Pemmican_craft2"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:id="@+id/imageView1" />
+	<TextView
+		android:text="RECIPE INCLUDES:"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/textView2"
+		android:textColor="#ff000000"
+		android:textAlignment="center"
+		android:layout_marginTop="22.0dp"
+		android:layout_marginBottom="9.5dp" />
+	<ImageButton
+		android:src="@drawable/potdrop2"
+		android:layout_width="297.0dp"
+		android:layout_height="40.0dp"
+		android:layout_gravity="center"
+		android:background="#fff0f4c3"
+		android:id="@+id/AgavePemmicanRecipePot" />
+	<ImageButton
+		android:src="@drawable/peanutdrop"
+		android:layout_width="297.0dp"
+		android:layout_height="40.0dp"
+		android:layout_gravity="center"
+		android:background="#fff0f4c3"
+		android:layout_marginTop="2.0dp"
+		android:id="@+id/AgavePemmicanRecipePeanut" />
+	<ImageButton
+		android:src="@drawable/agavedrop2"
+		android:layout_width="297.0dp"
+		android:layout_height="40.0dp"
+		android:layout_gravity="center"
+		android:background="#fff0f4c3"
+		android:layout_marginTop="2.0dp"
+		android:id="@+id/AgavePemmicanRecipeAgave" />
+	<ImageButton
+		android:src="@drawable/chickendrop"
+		android:layout_width="297.0dp"
+		android:layout_height="40.0dp"
+		android:layout_gravity="center"
+		android:background="#fff0f4c3"
+		android:layout_marginTop="2.0dp"
+		android:id="@+id/AgavePemmicanRecipeCoockedChicken" />
+	<ImageButton
+		android:src="@drawable/honeydrop"
+		android:layout_width="297.0dp"
+		android:layout_height="40.0dp"
+		android:layout_gravity="center"
+		android:background="#fff0f4c3"
+		android:layout_marginTop="2.0dp"
+		android:id="@+id/AgavePemmicanRecipeHoney" />
+
+</LinearLayout>
