@@ -2225,37 +2225,25 @@ namespace PrototypeWiki
 			public const int abc_vector_test = 2131296339;
 			
 			// aapt resource value: 0x7F010002
-			public const int aboutgardens = 2130771970;
+			public const int aboutgardens2 = 2130771970;
 			
 			// aapt resource value: 0x7F010003
-			public const int aboutgardens2 = 2130771971;
+			public const int agavedrop2 = 2130771971;
 			
 			// aapt resource value: 0x7F010004
-			public const int agavedrop2 = 2130771972;
+			public const int AgaveGrowth = 2130771972;
 			
 			// aapt resource value: 0x7F010005
-			public const int AgaveGrowth = 2130771973;
+			public const int agavetiny = 2130771973;
 			
 			// aapt resource value: 0x7F010006
-			public const int agavetiny = 2130771974;
+			public const int aipary = 2130771974;
 			
 			// aapt resource value: 0x7F010007
-			public const int aipary = 2130771975;
+			public const int AridGarden4 = 2130771975;
 			
 			// aapt resource value: 0x7F010008
-			public const int AridGarden = 2130771976;
-			
-			// aapt resource value: 0x7F010009
-			public const int AridGarden2 = 2130771977;
-			
-			// aapt resource value: 0x7F010010
-			public const int AridGarden3 = 2130771984;
-			
-			// aapt resource value: 0x7F010011
-			public const int AridGarden4 = 2130771985;
-			
-			// aapt resource value: 0x7F010012
-			public const int Arid_Garden = 2130771986;
+			public const int Arid_Garden = 2130771976;
 			
 			// aapt resource value: 0x7F090054
 			public const int avd_hide_password = 2131296340;
@@ -2263,44 +2251,26 @@ namespace PrototypeWiki
 			// aapt resource value: 0x7F090055
 			public const int avd_show_password = 2131296341;
 			
+			// aapt resource value: 0x7F010009
+			public const int bricktiny = 2130771977;
+			
+			// aapt resource value: 0x7F010010
+			public const int cactusfruitdrop = 2130771984;
+			
+			// aapt resource value: 0x7F010011
+			public const int cassavadrop = 2130771985;
+			
+			// aapt resource value: 0x7F010012
+			public const int CChickenDrop = 2130771986;
+			
 			// aapt resource value: 0x7F010013
-			public const int bricktiny = 2130771987;
+			public const int chickpeadrop = 2130771987;
 			
 			// aapt resource value: 0x7F010014
-			public const int cactusfruitdrop = 2130771988;
+			public const int crops6 = 2130771988;
 			
 			// aapt resource value: 0x7F010015
-			public const int cassavadrop = 2130771989;
-			
-			// aapt resource value: 0x7F010016
-			public const int chickendrop = 2130771990;
-			
-			// aapt resource value: 0x7F010017
-			public const int chickpeadrop = 2130771991;
-			
-			// aapt resource value: 0x7F010018
-			public const int crops = 2130771992;
-			
-			// aapt resource value: 0x7F010019
-			public const int crops2 = 2130771993;
-			
-			// aapt resource value: 0x7F010020
-			public const int crops3 = 2130772000;
-			
-			// aapt resource value: 0x7F010021
-			public const int crops4 = 2130772001;
-			
-			// aapt resource value: 0x7F010022
-			public const int crops5 = 2130772002;
-			
-			// aapt resource value: 0x7F010023
-			public const int crops6 = 2130772003;
-			
-			// aapt resource value: 0x7F010024
-			public const int crops7 = 2130772004;
-			
-			// aapt resource value: 0x7F010025
-			public const int cropsome = 2130772005;
+			public const int cropsome = 2130771989;
 			
 			// aapt resource value: 0x7F090056
 			public const int design_bottom_navigation_item_background = 2131296342;
@@ -2320,35 +2290,26 @@ namespace PrototypeWiki
 			// aapt resource value: 0x7F09005B
 			public const int design_snackbar_background = 2131296347;
 			
-			// aapt resource value: 0x7F010026
-			public const int FrostGarden3 = 2130772006;
+			// aapt resource value: 0x7F010016
+			public const int FrostGarden3 = 2130771990;
 			
-			// aapt resource value: 0x7F010027
-			public const int gardens = 2130772007;
+			// aapt resource value: 0x7F010017
+			public const int gardens3 = 2130771991;
 			
-			// aapt resource value: 0x7F010028
-			public const int gardens2 = 2130772008;
+			// aapt resource value: 0x7F010018
+			public const int GridPot = 2130771992;
 			
-			// aapt resource value: 0x7F010029
-			public const int gardens3 = 2130772009;
+			// aapt resource value: 0x7F010019
+			public const int Honey = 2130771993;
 			
-			// aapt resource value: 0x7F010030
-			public const int GridPot = 2130772016;
+			// aapt resource value: 0x7F010020
+			public const int honeydrop = 2130772000;
 			
-			// aapt resource value: 0x7F010031
-			public const int Grid_Pot = 2130772017;
+			// aapt resource value: 0x7F010021
+			public const int irontiny = 2130772001;
 			
-			// aapt resource value: 0x7F010032
-			public const int Honey = 2130772018;
-			
-			// aapt resource value: 0x7F010033
-			public const int honeydrop = 2130772019;
-			
-			// aapt resource value: 0x7F010034
-			public const int irontiny = 2130772020;
-			
-			// aapt resource value: 0x7F010035
-			public const int lentildrop = 2130772021;
+			// aapt resource value: 0x7F010022
+			public const int lentildrop = 2130772002;
 			
 			// aapt resource value: 0x7F09005C
 			public const int navigation_empty_icon = 2131296348;
@@ -2389,71 +2350,47 @@ namespace PrototypeWiki
 			// aapt resource value: 0x7F09000C
 			public const int notify_panel_notification_icon_bg = 2131296268;
 			
+			// aapt resource value: 0x7F010023
+			public const int peanutdrop = 2130772003;
+			
+			// aapt resource value: 0x7F010024
+			public const int Peanut_Growth = 2130772004;
+			
+			// aapt resource value: 0x7F010025
+			public const int pemmicandrop = 2130772005;
+			
+			// aapt resource value: 0x7F010026
+			public const int Pemmican_craft2 = 2130772006;
+			
+			// aapt resource value: 0x7F010027
+			public const int PotCraftCurrent2 = 2130772007;
+			
+			// aapt resource value: 0x7F010028
+			public const int PotCraftPrevious2 = 2130772008;
+			
+			// aapt resource value: 0x7F010029
+			public const int potdrop2 = 2130772009;
+			
+			// aapt resource value: 0x7F010030
+			public const int pottiny2 = 2130772016;
+			
+			// aapt resource value: 0x7F010031
+			public const int presserhoney2 = 2130772017;
+			
+			// aapt resource value: 0x7F010032
+			public const int sisaldrop = 2130772018;
+			
+			// aapt resource value: 0x7F010033
+			public const int sticktiny = 2130772019;
+			
+			// aapt resource value: 0x7F010034
+			public const int Sugar3 = 2130772020;
+			
+			// aapt resource value: 0x7F010035
+			public const int sugardrop2 = 2130772021;
+			
 			// aapt resource value: 0x7F010036
-			public const int peanutdrop = 2130772022;
-			
-			// aapt resource value: 0x7F010037
-			public const int Peanut_Growth = 2130772023;
-			
-			// aapt resource value: 0x7F010038
-			public const int pemmicandrop = 2130772024;
-			
-			// aapt resource value: 0x7F010039
-			public const int Pemmican_craft = 2130772025;
-			
-			// aapt resource value: 0x7F010040
-			public const int Pemmican_craft2 = 2130772032;
-			
-			// aapt resource value: 0x7F010041
-			public const int PotCraftCurrent = 2130772033;
-			
-			// aapt resource value: 0x7F010042
-			public const int PotCraftCurrent2 = 2130772034;
-			
-			// aapt resource value: 0x7F010043
-			public const int PotCraftPrevious = 2130772035;
-			
-			// aapt resource value: 0x7F010044
-			public const int PotCraftPrevious2 = 2130772036;
-			
-			// aapt resource value: 0x7F010045
-			public const int potdrop = 2130772037;
-			
-			// aapt resource value: 0x7F010046
-			public const int potdrop2 = 2130772038;
-			
-			// aapt resource value: 0x7F010047
-			public const int pottiny = 2130772039;
-			
-			// aapt resource value: 0x7F010048
-			public const int pottiny2 = 2130772040;
-			
-			// aapt resource value: 0x7F010049
-			public const int presserhoney = 2130772041;
-			
-			// aapt resource value: 0x7F010050
-			public const int presserhoney2 = 2130772048;
-			
-			// aapt resource value: 0x7F010051
-			public const int sisaldrop = 2130772049;
-			
-			// aapt resource value: 0x7F010052
-			public const int sticktiny = 2130772050;
-			
-			// aapt resource value: 0x7F010053
-			public const int Sugar2 = 2130772051;
-			
-			// aapt resource value: 0x7F010054
-			public const int Sugar3 = 2130772052;
-			
-			// aapt resource value: 0x7F010055
-			public const int sugardrop = 2130772053;
-			
-			// aapt resource value: 0x7F010056
-			public const int sugardrop2 = 2130772054;
-			
-			// aapt resource value: 0x7F010057
-			public const int sugartiny = 2130772055;
+			public const int sugartiny = 2130772022;
 			
 			// aapt resource value: 0x7F090069
 			public const int tooltip_frame_dark = 2131296361;
